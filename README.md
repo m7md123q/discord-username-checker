@@ -1,2 +1,4 @@
 # discord-username-checker
-10 or 5 stars and ill release source code
+20 stars and ill release source code
+
+Discord server with checker 24/7: https://discord.gg/4b32WMa6b
