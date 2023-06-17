@@ -21,7 +21,7 @@ def check_username(username, password, webhook_url=None):
                 message = f"``❌ Username {username} is not working.``"
                 send_webhook_notification(webhook_url, message)
             else:
-                message = f" <@&1119265235367366727> \n ``✔️ Username {username} is free.``"
+                message = f"``✔️ Username {username} is free.``"
                 send_webhook_notification(webhook_url2, message)
         else:
             message = f"Error occurred while checking username {username}."
