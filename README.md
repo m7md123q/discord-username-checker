@@ -1,5 +1,5 @@
 # discord-username-checker
-A discord username checker with Pomelo.
+A discord username checker with Pomelo and webhook support.
 
 requirements:
 ```
