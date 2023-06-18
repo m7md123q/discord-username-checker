@@ -19,7 +19,6 @@ def check_username(username, password, webhook_url=None):
         if 'errors' in json_response:
             if 'username' in json_response['errors']:
                 message = f"``❌ Username {username} is not working.``"
-                send_webhook_notification(webhook_url, message)
             else:
                 message = f"``✔️ Username {username} is free.``"
                 send_webhook_notification(webhook_url2, message)
