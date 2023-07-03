@@ -1,4 +1,4 @@
-# DOES NOT WORK ANYMORE!!
+# UPDATED VERSION ON 25 STARS!
 A discord username checker with Pomelo and webhook support.
 
 requirements:
